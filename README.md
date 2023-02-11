@@ -1,3 +1,39 @@
+Problem Sequence:
+1. Got to the exam tab
+2. select any quiz option
+3. Select any option ( showing the right or wrong answer by the toast).
+4. But i want to like that ( when cliked right ans then this right answer count ans show right sight of the page "Correct answer section" and similarly wrong answer also)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
